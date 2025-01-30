@@ -1,0 +1,11 @@
+VAR0 = 2 
+
+TMP0 = 3 + VAR0
+VAR1 = TMP0 
+
+jpm (VAR0 == 2) = FALSE , LB0 
+WLB1:
+jpm (VAR0 == 2) = FALSE , LB1 
+jmp WLB1
+LB1
+LB0

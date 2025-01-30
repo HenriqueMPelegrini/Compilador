@@ -1,0 +1,14 @@
+Program p
+Integer a
+Integer b
+Integer c
+Integer d
+a = 2
+b = 3
+d = a + b
+d = a - 1
+a = a + b
+If ( a == a ) {
+While ( a == 2 ) {
+}
+}

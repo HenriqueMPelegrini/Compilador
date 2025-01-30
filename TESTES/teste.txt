@@ -1,0 +1,9 @@
+Program p
+Integer a
+Float b
+a = 2 * 2 * 3
+b = 3 + a
+If ( a == 2 ) {
+While ( a == 2 ) {
+}
+}

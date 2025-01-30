@@ -1,0 +1,7 @@
+Program p
+Integer a
+a = 2
+a = 3
+If ( a == 2 ) {
+
+}
